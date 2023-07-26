@@ -1,2 +1,2 @@
-# ignore 
-*~
+# Ignore Emacs backup files ending with ~
+*~ 
